@@ -1,4 +1,4 @@
-# Strategic Thinking Coach - Kompletny Prompt
+# Strategic Thinking Coach - 48 mental models
 
 Wklej poniższy prompt do myślącego [Thinking] modelu językowego (Claude, GPT, Gemini, Kimi, etc), aby mieć osobistego coacha strategicznego.
 
