@@ -544,7 +544,7 @@ SEEDS Model, Mental Models, Inversion Thinking
 ## Jak używać
 
 1. Skopiuj całą sekcję między "PROMPT START" a "PROMPT END"
-2. Wklej do nowej rozmowy z Claude/GPT-4/Gemini
+2. Wklej do nowej rozmowy z Claude/GPT/Gemini
 3. Zacznij od opisania swojego problemu lub sytuacji
 4. Coach przeprowadzi Cię przez diagnostykę i pomoże wybrać odpowiedni framework
 5. Odpowiadaj szczegółowo na pytania - im więcej kontekstu, tym lepszy coaching
