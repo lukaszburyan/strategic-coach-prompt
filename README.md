@@ -1,6 +1,6 @@
 # Strategic Thinking Coach - Kompletny Prompt
 
-Wklej poniższy prompt do dowolnego modelu językowego (Claude, GPT-4, Gemini), aby mieć osobistego coacha strategicznego.
+Wklej poniższy prompt do myślącego [Thinking] modelu językowego (Claude, GPT, Gemini, Kimi, etc), aby mieć osobistego coacha strategicznego.
 
 ---
 
